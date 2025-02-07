@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 
 1. Clone the Repository:
 >>>>
-    git clone https://github.com/kebaHailu/adey_inovation_fraud_detection`
+    git clone https://github.com/kebaHailu/Adey_inovation_fraud_detection`
 
     cd fruad-detection
 >>>>
